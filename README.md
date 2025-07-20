@@ -16,10 +16,6 @@ Complete enterprise-grade hub-and-spoke VPN lab featuring:
 - **Routing:** OSPF with hub advertising default route
 
 ## 📁 Repository Structure
-├── configs/           # Individual router configurations
-├── docs/             # Documentation and guides
-├── diagrams/         # Network topology diagrams
-└── README.md         # This file
 
 ## 🚀 Quick Start
 1. Review the [Deployment Guide](docs/deployment-guide.md)
